@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+
+.testata{
+    background-color: #E579E6;
+    margin: 1% 10%;
+    height: 100px;
+}
+
+.container{
+    background-color: #E1D67A;
+    margin: 1% 10%;
+    height: 500px;
+}
+
+.shelf{
+    background-color: #0186FE;
+    margin: 1% 10%;
+    height: 700px;
+}
+
+.shelf div{
+    background-color: #ABCFE7;
+}
+
+.minihead{
+    height: 100px;
+}
+
+footer{
+    background-color: #8801FE;
+    height: 50px;
+    margin: 1% 10%;
+}
